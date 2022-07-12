@@ -1,8 +1,5 @@
-let a = 5;
-//alert(a);
+"use strrict";
 
-//let result = confirm("Dorou");
+let a = 54;
 
-const what = prompt("What is your name?");
-
-console.log(what);
+console.log(`hhtt/dwa${a}/23`);
